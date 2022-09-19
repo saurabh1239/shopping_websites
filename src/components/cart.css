@@ -1,0 +1,19 @@
+.cart{
+    display: flex ;
+    flex-direction: column;
+    margin: 10;
+    background-color: rgb(28, 28, 28);
+    padding: 10;
+    width: 20%;
+    height: 100%;
+    border-radius: "2px"
+    /* style={{
+        display: "flex",
+        flexDirection: "column",
+        margin: 10,
+        backgroundColor: "black",
+        padding: 10,
+        width: "20%",
+        borderradius: "2px"
+      }} */
+}

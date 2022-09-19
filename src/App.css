@@ -1,0 +1,7 @@
+.App {
+  display: flex;
+  justify-content: space-between;
+  background-image:linear-gradient(to bottom left,#1c1c1cfe,#08174aa8);
+  min-height:100vh;
+  color: white;
+}
